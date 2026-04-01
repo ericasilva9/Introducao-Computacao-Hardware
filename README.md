@@ -18,15 +18,15 @@ A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen. O Windows 1.0 chego
 
 O Windows utiliza o **Windows NT Kernel**, de arquitetura **híbrida** — combinando características do modelo monolítico (serviços como drivers e gerenciamento de memória no modo kernel, para alto desempenho) com o micronúcleo (organização em camadas e modularidade).
 
-## Segurança e Isolamento ##
+## Nível de Isolamento e Segurança ##
 
 O sistema implementa quatro camadas de proteção: separação entre modo usuário e modo kernel, Controle de Conta de Usuário (UAC), isolamento de processos e sistema de permissões NTFS para controle de acesso a arquivos.
 
-## Ecossistema e Casos de Uso ##
+## Ecossistema e Dispositivos ##
 
 O Windows domina o segmento de desktops e laptops, é forte em servidores corporativos via Windows Server e Azure, possui presença em dispositivos embarcados com Windows IoT, e perdeu o mercado mobile após a descontinuação do Windows Phone. Na prática, é usado por gamers (DirectX 12), criadores de conteúdo (Adobe CC), estudantes (Microsoft 365), hospitais, datacenters e até agências espaciais como a NASA.
 
-## Vantagens e Limitações ##
+## Vantagens e Desvantagens ##
 
 Entre as vantagens destacam: interface intuitiva, segurança nativa com Windows Defender e amplo suporte de hardware, como limitações custo de licença, fragmentação entre versões, ecossistema fechado (lock-in) e curva de aprendizado para recursos avançados.
 
