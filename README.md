@@ -1,35 +1,25 @@
 # Introducao-Computacao-Hardware #
-## Sistema Operacional Windows ##
-
-**Sistema Operacional Microsoft Windows**
 
 **ALUNA:** Erica Pereira Da Silva
 
 **Prof.ª:** Kadidja Valéria
 
-**RESUMO DO SEMINÁRIO**
+# Resumo — Sistema Operacional Windows #
+
+O Windows, desenvolvido por Bill Gates e Paul Allen em 1975, é o sistema operacional mais usado do mundo (~73% do mercado desktop). Sua evolução passou por marcos como o revolucionário Windows 95, o amado Windows XP, o fracasso do Vista e a recuperação com o Windows 7, chegando ao Windows 11 com IA integrada via Copilot.
+
+Do ponto de vista o **Windows NT Kernel de arquitetura híbrida**, unindo desempenho do modelo monolítico com a modularidade do micronúcleo. A segurança é garantida por quatro camadas: separação usuário/kernel, UAC, isolamento de processos e permissões NTFS.
+
+Seu ecossistema abrange desde usuários domésticos e gamers (DirectX 12) até ambientes corporativos complexos (Windows Server, Azure), passando por hospitais (Windows IoT) e agências espaciais. As principais vantagens são usabilidade e compatibilidade ampla; as limitações incluem custo de licença e dependência do ecossistema Microsoft.
+
 ---
 
-## Histórico e Evolução ##
+## Principais Aprendizados ##
 
-A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen. O Windows 1.0 chegou em 1985 como a primeira interface gráfica sobre o MS-DOS. O primeiro grande sucesso comercial foi o Windows 3.0 (1990), com 10 milhões de cópias em 18 meses. O Windows 95 revolucionou a computação pessoal ao introduzir o Menu Iniciar e a barra de tarefas. O Windows XP (2001) tornou-se o mais estável e longevo da história, utilizado por mais de 13 anos. O Vista (2007) foi um fracasso por ser pesado e instável, enquanto o Windows 7 (2009) restaurou a reputação da empresa. O Windows 11 (2021) trouxe integração com IA via Copilot e hoje detém cerca de 73% do mercado global de SO para desktop.
+**1. Erros que ensinaram** — o fracasso do Vista e o sucesso do XP e do 7 mostram que ignorar requisitos não-funcionais compromete todo um produto.
 
-## Arquitetura do Kernel ##
+**2. Arquitetura híbrida como solução** — o kernel do Windows demonstra que combinar abordagens distintas pode ser mais eficiente do que adotar uma única solução pura.
 
-O Windows utiliza o **Windows NT Kernel**, de arquitetura **híbrida** — combinando características do modelo monolítico (serviços como drivers e gerenciamento de memória no modo kernel, para alto desempenho) com o micronúcleo (organização em camadas e modularidade).
+**3. Domínio de mercado não garante presença** — o Windows Phone foi descontinuado, provando que liderança em um segmento não se transfere automaticamente para outros.
 
-## Nível de Isolamento e Segurança ##
-
-O sistema implementa quatro camadas de proteção: separação entre modo usuário e modo kernel, Controle de Conta de Usuário (UAC), isolamento de processos e sistema de permissões NTFS para controle de acesso a arquivos.
-
-## Ecossistema e Dispositivos ##
-
-O Windows domina o segmento de desktops e laptops, é forte em servidores corporativos via Windows Server e Azure, possui presença em dispositivos embarcados com Windows IoT, e perdeu o mercado mobile após a descontinuação do Windows Phone. Na prática, é usado por gamers (DirectX 12), criadores de conteúdo (Adobe CC), estudantes (Microsoft 365), hospitais, datacenters e até agências espaciais como a NASA.
-
-## Vantagens e Desvantagens ##
-
-Entre as vantagens destacam: interface intuitiva, segurança nativa com Windows Defender e amplo suporte de hardware, como limitações custo de licença, fragmentação entre versões, ecossistema fechado (lock-in) e curva de aprendizado para recursos avançados.
-
-## Reflexão ##
-
-O Windows é um caso de estudo rico em engenharia de software: mostra como decisões arquiteturais (kernel híbrido), estratégia de mercado e experiência do usuário moldam décadas de evolução tecnológica. O fracasso do Vista e o sucesso do XP e do 7 evidenciam que desempenho e estabilidade são requisitos não funcionais críticos em sistemas operacionais.
+**4. Evolução contínua como estratégia de sobrevivência** do MS-DOS ao Copilot IA, o Windows mostra que sistemas precisam se reinventar para permanecer relevantes.
