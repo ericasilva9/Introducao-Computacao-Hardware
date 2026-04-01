@@ -1,7 +1,8 @@
 # Introducao-Computacao-Hardware #
 ## Sistema Operacional Windows ##
 
-**Sistema Operacional estudado:** Microsoft Windows
+**Sistema Operacional estudado:**Microsoft Windows
+
 **ALUNA:** Erica Pereira Da Silva
 **Prof.ª:** Kadidja Valéria
 
