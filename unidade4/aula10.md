@@ -36,4 +36,4 @@ Cada grupo deve incluir neste repositório:
   - `README.md` com breve descrição do trabalho.
 
 ---
-![LIVRO](https://www.cliquebooks.com.br/produto/9301676-Redes-De-Computadores-6a-Ed-Bookma?srsltid=AfmBOorBUydhFQjd6l9o3jUTk_oHQ5Dh-MLh5Fyw7GifXPA0Rfy_9H-G)
+![LIVRO](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQROOHmhUuYNC63LHRgWdkZ4FpYFXmDDyTy5zM5Rj4dr-8oQ6Fs)
