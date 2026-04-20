@@ -36,4 +36,4 @@ Cada grupo deve incluir neste repositório:
   - `README.md` com breve descrição do trabalho.
 
 ---
-Livro ![Livro de Rede de computadores do Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
+![LIVRO](image_url)
