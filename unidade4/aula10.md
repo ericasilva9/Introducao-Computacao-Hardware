@@ -37,4 +37,3 @@ Cada grupo deve incluir neste repositório:
 
 ---
 ![LIVRO](https://www.cliquebooks.com.br/produto/9301676-Redes-De-Computadores-6a-Ed-Bookma?srsltid=AfmBOorBUydhFQjd6l9o3jUTk_oHQ5Dh-MLh5Fyw7GifXPA0Rfy_9H-G)
-![LIVRO](https://www.cliquebooks.com.br/produto/9301676-Redes-De-Computadores-6a-Ed-Bookma?srsltid=AfmBOorBUydhFQjd6l9o3jUTk_oHQ5Dh-MLh5Fyw7GifXPA0Rfy_9H-G)
