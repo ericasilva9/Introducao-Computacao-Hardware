@@ -1,9 +1,8 @@
 # Reflexão Individual – Aula 11
 
-**Nome:** ________________________  
-**Matrícula:** ________________________  
-**Disciplina:** Redes de Computadores  
-**Data:** ________________________
+**Nome:** Erica Pereira Da Silva 
+**Matrícula:** 22611949 
+**Disciplina:** Introdução à computação  
 
 ---
 
