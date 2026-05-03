@@ -8,10 +8,6 @@
 
 ## "Qual topologia seria mais adequada para a rede da minha residência e por quê?"
 
-### Introdução
-
-Ao analisar as quatro topologias estrela, barramento, anel e malha, é possível identificar qual delas melhor se adapta às demandas de uma rede residencial moderna. Cada topologia apresenta características distintas quanto à facilidade de instalação, tolerância a falhas, custo e escalabilidade.
-
 ### Análise das Topologias
 
 A **topologia em barramento** foi amplamente utilizada nas primeiras redes Ethernet, com um único cabo coaxial compartilhado por todos os dispositivos. No ambiente residencial atual, ela seria inadequada: qualquer falha no cabo central derruba toda a rede, o tráfego é compartilhado (gerando colisões), e a tecnologia está praticamente obsoleta.
@@ -22,7 +18,7 @@ A **topologia em malha** garante alta redundância cada dispositivo pode se comu
 
 ### Topologia Recomendada: Estrela
 
-A **topologia em estrela** é, sem dúvida, a mais adequada para uma rede residencial. Nela, todos os dispositivos — computadores, notebooks, smart TVs, consoles e impressoras conectam-se a um único ponto central, que em uma residência moderna é o **roteador Wi-Fi** (geralmente com switch integrado).
+A **topologia em estrela** é, sem dúvida, a mais adequada para uma rede residencial. Nela, todos os dispositivos computadores, notebooks, smart TVs, consoles e impressoras conectam-se a um único ponto central, que em uma residência moderna é o **roteador Wi-Fi** (geralmente com switch integrado).
 
 **Razões que justificam essa escolha:**
 
