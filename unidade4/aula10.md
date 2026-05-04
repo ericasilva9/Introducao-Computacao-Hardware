@@ -4,7 +4,6 @@
 
 ## Identificação
 
-||            |
 | Aula        | 10                               |
 | Grupo       | Grupo1_Windows                   |
 | Integrantes | Erica Silva, Ana Beatriz Ramos, Christian Caleb  |
