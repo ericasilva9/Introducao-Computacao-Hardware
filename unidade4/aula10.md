@@ -2,20 +2,13 @@
 
 ## Nome(s) dos estudante(s): Erica Pereira Da Silva e matrícula(s): 22611949
 
-### 1. Linha do Tempo
-- Representação dos principais marcos da evolução das redes (mainframes, ARPANET, TCP/IP, Internet comercial, redes móveis).
-- Pode ser em formato de imagem, PDF ou slides.# Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
-
 ## Identificação
 
 | Campo       | Informação                       |
-|-------------|----------------------------------|
-| Disciplina  | Redes de Computadores            |
+|-------------|----------------------------------|            |
 | Aula        | 10                               |
 | Grupo       | Grupo1_Windows                   |
-| Integrantes | ________________________         |
-| Matrículas  | ________________________         |
-| Data        | ________________________         |
+| Integrantes | Erica Silva, Ana Beatriz Ramos, Christian Caleb  |
 
 ---
 ---
@@ -34,7 +27,7 @@ Representação visual dos principais marcos históricos das redes de computador
 | Redes Móveis 3G | 2007 | iPhone lançado, internet no celular |
 | Wi-Fi 6 & 5G | 2020s | Ultra-baixa latência, IoT, computação em nuvem |
 
-![Linha do Tempo das Redes de Computadores](https://imgur.com/a/Yg8oPav)
+
 
 ---
 
@@ -49,7 +42,7 @@ Esquema ilustrando os quatro elementos fundamentais de uma rede, com exemplo pr�
 | **Protocolo** | Regras que governam a comunicação | SMB / TCP/IP (File Sharing Windows) |
 | **Receptor** | Destino da mensagem/dados | Notebook Windows (acessa o arquivo) |
 
-![Elementos Fundamentais da Rede](elementos_rede.png)
+
 
 ---
 
@@ -64,7 +57,7 @@ Quadro comparativo dos quatro tipos de rede classificados por abrangência geogr
 | **MAN** | Metropolitan Area Network | Cidade / região | 1 Mbps – 1 Gbps | VPN corporativa / DirectAccess |
 | **WAN** | Wide Area Network | Países / mundial | 56 Kbps – 100 Gbps | Windows Update / Azure Cloud |
 
-![Classificação de Redes](classificacao_redes.png)
+
 
 ---
 
