@@ -34,7 +34,7 @@ Representação visual dos principais marcos históricos das redes de computador
 | Redes Móveis 3G | 2007 | iPhone lançado, internet no celular |
 | Wi-Fi 6 & 5G | 2020s | Ultra-baixa latência, IoT, computação em nuvem |
 
-![Linha do Tempo das Redes de Computadores](https://imgur.com/a/Yg8oPav))
+![Linha do Tempo das Redes de Computadores](https://imgur.com/a/Yg8oPav)
 
 ---
 
