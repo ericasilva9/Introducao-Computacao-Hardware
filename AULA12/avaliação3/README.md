@@ -10,7 +10,7 @@ História em quadrinho abordando o tema de **Phishing** — como o golpe acontec
  ## 📌 Tema Escolhido
 
 **Ameaça principal:** Phishing
-Baseado na cartilha: https://cartilha.cert.br/
+baseado na cartilha: https://cartilha.cert.br/
 ---
 
 ## 📖 Definições
