@@ -1,6 +1,6 @@
 # Grupo5_Avaliacao3
  Grupo 5 — Avaliação 3: Segurança da Informação
-**Integrantes:** ERICA PEREIRA DA SILVA · Christian Calebe · Ana Beatriz Almeida
+**Integrantes:** ERICA Pereira · Christian Calebe · Ana Beatriz Almeida
 ## 🎨 Entregável
 https://claude.ai/public/artifacts/965ee49f-44f2-48aa-82b3-054c3cfe8bd5
 
