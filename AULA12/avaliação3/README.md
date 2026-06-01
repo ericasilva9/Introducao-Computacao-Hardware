@@ -11,7 +11,7 @@ História em quadrinho abordando o tema de **Phishing** — como o golpe acontec
 
 **Ameaça principal:** Phishing
 ---
-baseado na cartilha: BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Fascículo golpes. Brasília, DF: Governo Digital, [https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/centro-de-excelencia-em-privacidade-e-seguranca/cert.br/fascilucos/fasciculo-golpes-digital-govbr-1.pdf?utm_source=chatgpt.com]. Disponível em: gov.br. Acesso em: 1 jun. 2026.
+baseado na cartilha: BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Fascículo golpes. Brasília, DF: Governo Digital, [s.d]. Disponível em: [gov.br.](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/centro-de-excelencia-em-privacidade-e-seguranca/cert.br/fascilucos/fasciculo-golpes-digital-govbr-1.pdf?utm_source=chatgpt.com) Acesso em: 1 jun. 2026.
 
 ## 📖 Definições
 
