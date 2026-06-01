@@ -15,7 +15,7 @@ História em quadrinho abordando o tema de **Phishing** — como o golpe acontec
 
 ## 📖 Definições
 
-### 🔓 Furto de Dispositivos
+### 🔓 Furto de Dispositivos 
 Ocorre quando uma pessoa rouba um aparelho (celular, notebook ou tablet), podendo acessar informações pessoais e contas da vítima.
 
 ### 🎣 Phishing
