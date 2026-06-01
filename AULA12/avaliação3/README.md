@@ -59,3 +59,6 @@ Golpe em que criminosos enviam mensagens falsas por e-mail, SMS, WhatsApp ou red
 
 História em quadrinho abordando o tema de **Phishing** — como o golpe acontece e como se proteger.
 
+## Reflexão Individual
+
+A inteligência artificial está transformando a proteção contra phishing de forma impressionante. Hoje, filtros de e-mail baseados em IA conseguem identificar mensagens fraudulentas antes mesmo de chegarem à caixa de entrada, analisando padrões de linguagem, remetentes suspeitos e links maliciosos em tempo real. Além disso, a autenticação biométrica como reconhecimento facial e digital substitui senhas tradicionais, dificultando o acesso de invasores mesmo quando os dados são obtidos por meio de golpes de phishing.
