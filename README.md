@@ -16,7 +16,7 @@ Principais componentes da arquitetura de hardware- ULA, memória, registradores,
 
 link aqui --> https://github.com/ChristianCalebe/-Introducao-Computacao-Hardware-Christian-Calebe-/blob/main/README.md
   Dispositivos de entrada e saída
-    link aqui  --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/Atividade_DispositivosES_16-03.doc
+ https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/Atividade_DispositivosES_16-03.doc
 
 # Unidade 3 - Informação e Sistemas da Informação
 Sistemas - conceitos, funções básicas e tipos de sistemas; Informação - dado, informação e conhecimento; Sistemas de Informação - conceito, características, tipos e aplicações.
