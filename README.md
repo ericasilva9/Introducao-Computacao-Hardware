@@ -10,7 +10,7 @@ Evolução histórica da Computação e suas tecnologias. Conceitos de Arquitetu
 # Unidade 1 - História  da Computação
 Evolução histórica da computação, tecnologias e conceitos gerais.
 
-link aqui -->
+link aqui --> https://github.com/adrianolis/Seminario-sobre-SO
 
 # Unidade 2 - Arquitetura de Hardware e Software
 Principais componentes da arquitetura de hardware- ULA, memória, registradores, Unidade de Controle, entrada/ saída); periféricos. software; sistemas operacionais - componentes, funcionamento e tipos.
