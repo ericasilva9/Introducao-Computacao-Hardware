@@ -4,22 +4,41 @@
 
 **Prof.ª:** Kadidja Valéria
 
-# Resumo — Sistema Operacional Windows #
+# Ementa da Disciplina #
+Evolução histórica da Computação e suas tecnologias. Conceitos de Arquitetura de Hardware e Software. Informação e Sistemas de Informação. Princípios de Redes de Computadores e Internet. Noções de Segurança da Informação. Aspectos de Governança e Gestão de TI. Tendências e novas tecnologias.
 
-O Windows, desenvolvido por **Bill Gates e Paul Allen** em 1975, é o sistema operacional mais usado do mundo (~73% do mercado desktop). Sua evolução passou por marcos como o revolucionário Windows 95, o amado Windows XP, o fracasso do Vista e a recuperação com o Windows 7, chegando ao Windows 11 com IA integrada via Copilot.
+# Unidade 1 - História  da Computação
+Evolução histórica da computação, tecnologias e conceitos gerais.
 
-Do ponto de vista o Windows NT Kernel de arquitetura híbrida, unindo desempenho do modelo monolítico com a modularidade do micronúcleo. A segurança é garantida por quatro camadas: separação usuário/kernel, UAC, isolamento de processos e permissões NTFS.
+link aqui -->
 
-Seu ecossistema abrange desde usuários domésticos e gamers (DirectX 12) até ambientes corporativos complexos (Windows Server, Azure), passando por hospitais (Windows IoT) e agências espaciais. As principais vantagens são usabilidade e compatibilidade ampla; as limitações incluem custo de licença e dependência do ecossistema Microsoft.
+# Unidade 2 - Arquitetura de Hardware e Software
+Principais componentes da arquitetura de hardware- ULA, memória, registradores, Unidade de Controle, entrada/ saída); periféricos. software; sistemas operacionais - componentes, funcionamento e tipos.
 
----
+link aqui -->
 
-## Principais Aprendizados ##
+# Unidade 3 - Informação e Sistemas da Informação
+Sistemas - conceitos, funções básicas e tipos de sistemas; Informação - dado, informação e conhecimento; Sistemas de Informação - conceito, características, tipos e aplicações.
 
-**1. Erros que ensinaram** — o fracasso do Vista e o sucesso do XP e do 7 mostram que ignorar requisitos não-funcionais compromete todo um produto.
+link aqui --->
 
-**2. Arquitetura híbrida como solução** — o kernel do Windows demonstra que combinar abordagens distintas pode ser mais eficiente do que adotar uma única solução pura.
+# Unidade 4 - Princípios de Redes de Computadores e Internet
+Redes de computadores - histórico, elementos, classificação, topologia, dispositivos de interconexão, meios de 
+transmissão, arquitetura de rede; Internet - história, conceitos, web, funcionamento, principais protocolos, navegadores e aplicativos.
 
-**3. Domínio de mercado não garante presença** — o Windows Phone foi descontinuado, provando que liderança em um segmento não se transfere automaticamente para outros.
+link aqui -->
 
-**4. Evolução contínua como estratégia de sobrevivência** do MS-DOS ao Copilot IA, o Windows mostra que sistemas precisam se reinventar para permanecer relevantes.
+# Unidade 5 - Noções Segurança da Informação
+Conceitos e atributos de segurança da informação; ameaças e ataques mecanismos de segurança da informação; segurança cibernética e novas tecnologias.
+
+link aqui -->
+
+# Unidade 6 - Aspectos de Governança e Gestão de TI
+Histórico e evolução da Gestão de TI; Governança e o papel estratégico da TI; aspectos éticos e legais da TI; Gestão de TI; Planejamento Estratégico de TI e PDTI; aquisições e contratações de TI; principais frameworks - COBIT, ITIL, PMBOK e outros.
+
+link aqui -->
+
+# Unidade 7 - Tendências e novas tecnologias
+Uso da computação por indivíduos e organizações; impactos sociais; transformação digital; novas tecnologias e tendências; mercado de trabalho e perfil profissional desejado.
+
+link aqui -->
