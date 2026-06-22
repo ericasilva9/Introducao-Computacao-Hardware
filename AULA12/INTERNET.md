@@ -60,3 +60,6 @@ Cada grupo deve incluir neste repositório:
 ## Reflexão Individual
 Cada integrante deve produzir um texto curto (1 página) respondendo:  
 **“Qual protocolo você considera mais essencial para o funcionamento da Internet e por quê?”**
+Embora a internet seja uma composição interdependente de tecnologias, considero o protocolo IP (Internet Protocol) como o mais essencial para o funcionamento da rede global.
+A justificativa reside no fato de que o IP atua na camada de rede, sendo o responsável direto por unificar e dar uma identidade lógica a qualquer dispositivo no planeta. Sem as regras fundamentais de endereçamento e roteamento fornecidas pelo IP (seja na versão IPv4 ou IPv6), seria impossível para os demais protocolos operarem. O HTTP não teria para onde enviar uma página web, o DNS não teria um endereço numérico para mapear e o TCP não saberia para onde destinar seus pacotes de dados.
+O IP funciona como a fundação de concreto de um edifício: sem ele, nenhuma das aplicações modernas que utilizamos no dia a dia da Engenharia de Software existiria, tornando-o o verdadeiro pilar da conectividade mundial.
