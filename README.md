@@ -31,7 +31,7 @@ link aqui ---> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tre
 Redes de computadores - histórico, elementos, classificação, topologia, dispositivos de interconexão, meios de 
 transmissão, arquitetura de rede; Internet - história, conceitos, web, funcionamento, principais protocolos, navegadores e aplicativos.
 
-link aqui -->
+link aqui --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/unidade4
 
 # Unidade 5 - Noções Segurança da Informação
 Conceitos e atributos de segurança da informação; ameaças e ataques mecanismos de segurança da informação; segurança cibernética e novas tecnologias.
