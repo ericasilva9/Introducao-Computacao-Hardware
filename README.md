@@ -25,7 +25,7 @@ link aqui --> https://github.com/ChristianCalebe/-Introducao-Computacao-Hardware
 # Unidade 3 - Informação e Sistemas da Informação
 Sistemas - conceitos, funções básicas e tipos de sistemas; Informação - dado, informação e conhecimento; Sistemas de Informação - conceito, características, tipos e aplicações.
 
-link aqui --->
+link aqui ---> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/Unidade%203
 
 # Unidade 4 - Princípios de Redes de Computadores e Internet
 Redes de computadores - histórico, elementos, classificação, topologia, dispositivos de interconexão, meios de 
