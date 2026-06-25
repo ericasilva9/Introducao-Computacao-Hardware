@@ -19,7 +19,7 @@ link aqui --> https://github.com/ChristianCalebe/-Introducao-Computacao-Hardware
 
 [SISTEMAS OPERACIONAIS ---> https://github.com/adrianolis/Seminario-sobre-SO/blob/main/SLIDE-SEMINARIO.pdf
 
-[REFLEXÃO SOBRE OS SISTEMAS OPERACIONAIS --> 
+[REFLEXÃO SOBRE OS SISTEMAS OPERACIONAIS --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/Unidade%202%20/readme.md
 
 # Unidade 3 - Informação e Sistemas da Informação
 Sistemas - conceitos, funções básicas e tipos de sistemas; Informação - dado, informação e conhecimento; Sistemas de Informação - conceito, características, tipos e aplicações.
