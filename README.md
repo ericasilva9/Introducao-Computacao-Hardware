@@ -16,7 +16,7 @@ Principais componentes da arquitetura de hardware- ULA, memória, registradores,
 
 link aqui --> https://github.com/ChristianCalebe/-Introducao-Computacao-Hardware-Christian-Calebe-/blob/main/README.md
 
-[ Dispositivos de entrada e saída --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/Atividade_DispositivosES_16-03.doc
+[ Dispositivos de entrada e saída --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/Unidade%202
 
 [SISTEMAS OPERACIONAIS ---> https://github.com/adrianolis/Seminario-sobre-SO/blob/main/SLIDE-SEMINARIO.pdf
 
