@@ -38,7 +38,7 @@ link aqui --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree
 # Unidade 5 - Noções Segurança da Informação
 Conceitos e atributos de segurança da informação; ameaças e ataques mecanismos de segurança da informação; segurança cibernética e novas tecnologias.
 
-link aqui -->
+link aqui --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/avalia%C3%A7%C3%A3o3.
 
 # Unidade 6 - Aspectos de Governança e Gestão de TI
 Histórico e evolução da Gestão de TI; Governança e o papel estratégico da TI; aspectos éticos e legais da TI; Gestão de TI; Planejamento Estratégico de TI e PDTI; aquisições e contratações de TI; principais frameworks - COBIT, ITIL, PMBOK e outros.
