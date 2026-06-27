@@ -43,7 +43,7 @@ link aqui --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree
 # Unidade 6 - Aspectos de Governança e Gestão de TI
 Histórico e evolução da Gestão de TI; Governança e o papel estratégico da TI; aspectos éticos e legais da TI; Gestão de TI; Planejamento Estratégico de TI e PDTI; aquisições e contratações de TI; principais frameworks - COBIT, ITIL, PMBOK e outros.
 
-link aqui -->
+link aqui --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/Unidade%206/readme.md
 
 # Unidade 7 - Tendências e novas tecnologias
 Uso da computação por indivíduos e organizações; impactos sociais; transformação digital; novas tecnologias e tendências; mercado de trabalho e perfil profissional desejado.
