@@ -37,7 +37,7 @@ link aqui --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree
 # Unidade 5 - Noções Segurança da Informação
 Conceitos e atributos de segurança da informação; ameaças e ataques mecanismos de segurança da informação; segurança cibernética e novas tecnologias.
 
-link aqui --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/Unidade%205/Rede%20readme.md
+Filme: A REDE SOCIAL --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/Unidade%205/Rede%20readme.md
 
 Avaliação 3 ---> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/Unidade%205/Avalia%C3%A7%C3%A3o%203
 
