@@ -27,7 +27,6 @@ Sistemas - conceitos, funções básicas e tipos de sistemas; Informação - dad
 
 link aqui ---> https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/Unidade%203
 
-link aqui ---> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/main/unidade4/aula10.md
 
 # Unidade 4 - Princípios de Redes de Computadores e Internet
 Redes de computadores - histórico, elementos, classificação, topologia, dispositivos de interconexão, meios de 
