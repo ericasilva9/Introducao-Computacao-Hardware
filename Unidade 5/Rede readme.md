@@ -62,11 +62,6 @@ Trazendo para a realidade atual, esse comportamento explica por que grandes corp
 ## 4. Reflexão Individual
 
 ### "Por que o fator humano é considerado o elo mais frágil da segurança da informação?"
-Aqui está um resumo bem direto e focado da reflexão individual, ideal para ocupar o espaço de um texto curto:
-
----
-
-> ### Por que o fator humano é considerado o elo mais frágil da segurança da informação?
 Enquanto os sistemas tecnológicos operam sob regras lógicas e previsíveis, os seres humanos são guiados por emoções, hábitos e cansaço. Por isso, o fator humano é o elo mais frágil da segurança: é muito mais fácil e barato para um criminoso enganar uma pessoa do que quebrar uma criptografia complexa.
  Os atacantes utilizam a **engenharia social** e o *phishing* para explorar gatilhos como a curiosidade, a pressa ou o medo, manipulando funcionários a clicarem em links maliciosos ou revelarem credenciais. Além disso, falhas cotidianas como o uso de senhas fracas, o compartilhamento de acessos e a falta de atenção anulam a eficácia de firewalls e softwares caros.
  O filme *A Rede Social* exemplifica isso: os sistemas de Harvard foram expostos não por um software externo ultra-avançado, mas pelas ações de um usuário interno que explorou as brechas físicas e lógicas do campus. Portanto, a tecnologia sozinha não basta; a verdadeira segurança exige a conscientização e o treinamento contínuo das pessoas.
