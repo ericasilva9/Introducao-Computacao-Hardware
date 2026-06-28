@@ -66,5 +66,5 @@ Enquanto os sistemas tecnológicos operam sob regras lógicas e previsíveis, os
  Os atacantes utilizam a **engenharia social** e o *phishing* para explorar gatilhos como a curiosidade, a pressa ou o medo, manipulando funcionários a clicarem em links maliciosos ou revelarem credenciais. Além disso, falhas cotidianas como o uso de senhas fracas, o compartilhamento de acessos e a falta de atenção anulam a eficácia de firewalls e softwares caros.
  O filme *A Rede Social* exemplifica isso: os sistemas de Harvard foram expostos não por um software externo ultra-avançado, mas pelas ações de um usuário interno que explorou as brechas físicas e lógicas do campus. Portanto, a tecnologia sozinha não basta; a verdadeira segurança exige a conscientização e o treinamento contínuo das pessoas.
 
-
+# Referência
 [A REDE SOCIAL. In: "Wikipédia: a enciclopédia livre. Disponível em: Wikipédia" – A Rede Social. Acesso em: 25 maio 2026."]
