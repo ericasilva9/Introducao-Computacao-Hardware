@@ -48,5 +48,3 @@ Cobit --> https://github.com/ericasilva9/Introducao-Computacao-Hardware/blob/mai
 
 # Unidade 7 - Tendências e novas tecnologias
 Uso da computação por indivíduos e organizações; impactos sociais; transformação digital; novas tecnologias e tendências; mercado de trabalho e perfil profissional desejado.
-
-link aqui -->
